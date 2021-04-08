@@ -257,7 +257,7 @@
             font-size: 80px;
         }
         .interest {
-            font-size: 32px;
+            font-size:  40px; 
         }
         .content-intro-text {
             font-size: 40px;
@@ -269,5 +269,8 @@
         .social-icons {
             height: 64px;
             width: 64px;
+        }
+        p{
+            font-size: 28px;
         }
     }
