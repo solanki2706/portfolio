@@ -1,0 +1,227 @@
+    p{
+        text-align: left;
+    }
+   blockquote {
+       text-align: center;
+    }
+    body {
+        font-family: 'Roboto', sans-serif;
+    }
+    .intro{
+        text-align: center;
+        font-size: 75px;
+        
+    }
+    .content-intro{
+        display: flex;
+        height: 400px;
+        
+    }
+    .content-intro-text{
+        margin: 20px;
+        font-size: xx-large;
+        background-color: burlywood;
+        margin: 28px;
+        opacity: 0.;
+        border: 1px;
+        padding: 35px;
+        color: darkslategrey;
+        border-radius: 8px;
+    }
+    .prizes{
+        display: flex;
+    }
+    .prize-head{
+        font-size:32px;
+        margin-top: 32px;
+        text-align: center;
+    }
+    .prize-comp{
+        font-size: x-large;
+
+    }
+    .prize-won{
+          font-size: 22px;
+    }
+    
+    .head-container{
+        background-size: 100% 100%;
+        background-image: url(sc1.jpg);        
+        background-repeat: no-repeat;
+        object-fit: fill;
+        height: 700px;  
+        color: white;
+    }
+    .links {
+        color: white;
+        text-decoration: none;
+    }
+    .image-overlay {
+        height: 100%;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.05);
+    }
+    .top{
+        font-size: 16px;
+        text-align: center;
+        padding-top: 64px;
+        color: cornsilk;
+    }
+    .middle {
+        text-align: center;
+        font-size: 45px;
+        margin: 50px 0 10px;
+        color:blanchedalmond
+    }
+    .interest {
+        text-align: center;
+        font-size: 22px;
+        color: white;
+    }
+    .edu{
+        display: flex;
+        
+    }
+
+    .studies{
+        display: flex;
+        flex-direction: column;
+        width: 650px;
+        background-color: grey;
+    margin: 30px;
+    opacity: 0.;
+    border: 1px;
+    padding: 35px;
+    box-shadow: 5px 10px 18px #888888;
+    color: lemonchiffon;
+    border-radius: 8px;
+}
+.content-edu{
+    border-left: 2px solid black;
+        padding-left: 8px;
+        margin-bottom: 20px;
+}
+    .groups{
+
+        display: flex;
+  flex-direction: column;
+  background-color: grey;
+    margin: 30px;
+    opacity: 0.;
+    border: 1px;
+    padding: 35px;
+    box-shadow: 5px 10px 18px #888888;
+    color: lemonchiffon;
+    border-radius: 8px;
+    }
+    .content-involvement{
+        border-left: 2px solid black;
+        padding-left: 8px;
+        margin-bottom: 20px;
+    }
+    .header{
+        display: flex;
+        color: white;
+        background-color: black;
+    }
+    .bar{
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        margin: 10px;
+    }
+    ol{
+        background-color: burlywood;
+        margin: 30px;
+    opacity: 0.;
+    border: 1px;
+    padding: 35px;
+    color: darkslategrey;
+    border-radius: 8px;
+
+    }
+    .stuff{
+        font-size: 75px;
+       text-align: center;
+
+    }
+    .skillset1{
+        font-size: 20px;
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        margin: 10px;
+    }
+    
+    .code{
+        background-color: grey;
+    margin: 30px;
+    opacity: 0.;
+    border: 1px;
+    padding: 35px;
+    box-shadow: 5px 10px 18px #888888;
+    color: lemonchiffon;
+    border-radius: 8px;
+    }
+    .design{
+        background-color: grey;
+        margin: 30px;
+        opacity: 0.;
+        border: 1px;
+        padding: 35px;
+        box-shadow: 5px 10px 18px #888888;
+        color: lemonchiffon;
+        border-radius: 8px;
+      }
+
+    
+    .share{
+        background-color: grey;
+    margin: 30px;
+    opacity: 0.;
+    border: 1px;
+    padding: 35px;
+    box-shadow: 5px 10px 18px #888888;
+    color: lemonchiffon;
+    border-radius: 8px;
+
+    }
+    .guess{
+        background-color: grey;
+    margin: 30px;
+    opacity: 0.;
+    border: 1px;
+    padding: 35px;
+    box-shadow: 5px 10px 18px #888888;
+    color: lemonchiffon;
+    border-radius: 8px;
+    }
+    .case{
+        background-color: grey;
+        margin: 30px;
+        opacity: 0.;
+        border: 1px;
+        padding: 35px;
+        box-shadow: 5px 10px 18px #888888;
+        color: lemonchiffon;
+        border-radius: 8px;
+    }
+    .contact-me{
+        font-size: 32px;
+    }
+    .platform{
+        font-size: 20px;
+    }
+    .reach-me{
+        background-color: black;
+        color: white;
+        padding: 16px;
+        font-size: 20px;
+    }
+    .social-icons {
+        background-color: white;
+        height: 32px;
+        width: 32px;
+        margin: 0 8px;
+        border-radius: 50%;
+    }
